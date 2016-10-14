@@ -3,7 +3,7 @@
 ## Dependences
 VT API library depends on:
 * multipart-post (https://github.com/catwell/lua-multipart-post) - custom License, see LICENSE.txt
-* json (https://github.com/craigmj/json4lua) - MIT License
+* json >= 0.9.10 (https://github.com/craigmj/json4lua) - MIT License
 
 ## Usage
 ```lua
