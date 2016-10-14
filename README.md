@@ -13,7 +13,7 @@ local res, err = vt.scan_url(api_key, 'https://virustotal.com')
 res, err = vt.url_report(api_key, res.scan_id)
 ```
 
-## Reources to download
+## Resources to download
 * https://github.com/catwell/lua-multipart-post/raw/master/multipart-post.lua
 * https://github.com/craigmj/json4lua/raw/master/json/json.lua
 
